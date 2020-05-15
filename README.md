@@ -5,4 +5,9 @@
 
 <p>This set of image data has been extracted from the YouTube Faces Dataset, which includes videos of people in YouTube videos. These videos have been fed through some processing steps and turned into sets of image frames containing one face and the associated keypoints.<br>
 
-![alt text](http://https://github.com/arunm8489/Face-keypoint-detection/blob/master/mona_lisaglasses.jpg)
+
+
+<p align="center">
+  <img src="https://github.com/arunm8489/Face-keypoint-detection/blob/master/mona_lisaglasses.jpg" width="350" title="hover text">
+  <img src="https://github.com/arunm8489/Face-keypoint-detection/blob/master/images/key_pts_example.png" width="350" alt="accessibility text">
+</p>
