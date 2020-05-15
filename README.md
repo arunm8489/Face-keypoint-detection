@@ -10,5 +10,11 @@
 <p align="center">
   <img src="https://github.com/arunm8489/Face-keypoint-detection/blob/master/mona_lisaglasses.jpg" width="350" title="hover text">
   <img src="https://github.com/arunm8489/Face-keypoint-detection/blob/master/images/landmarks_numbered.jpg" width="350>
+ </p>
+ <br>
+                                                                                                                   
+ <p>                                                                                                                  
   <img src="https://github.com/arunm8489/Face-keypoint-detection/blob/master/images/key_pts_example.png" width="350" alt="accessibility text">
+  <img src="https://github.com/arunm8489/Face-keypoint-detection/blob/master/images/michelle_detected.png" width="350"
+ alt="accessibility text">                                                                                                                                          
 </p>
